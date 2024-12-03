@@ -1,0 +1,9 @@
+proyecto_vehiculos_django/venv/
+proyecto_vehiculos_django/env/
+
+proyecto_vehiculos_django/*.pyc
+proyecto_vehiculos_django/__pycache__/
+
+proyecto_vehiculos_django/*.sqlite3
+
+proyecto_vehiculos_django/staticfiles/
